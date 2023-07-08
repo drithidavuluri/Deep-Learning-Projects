@@ -11,6 +11,6 @@ Credit Card Applications using Self-Organizing Maps (SOM): The Self-Organizing M
 
 Movie Recommender System using Boltzmann Machines: This project utilizes Boltzmann Machines, a type of unsupervised learning algorithm, to build a movie recommender system. By learning patterns and preferences from user data, the model suggests relevant movies based on a user's preferences and similarities with other users.
 
-Autoencoders for Image Denoising: Autoencoders, a type of neural network architecture, are employed for image denoising in this project. The model is trained to remove noise from corrupted images, showcasing the capabilities of deep learning in image restoration tasks.
+Movie Recommender System using Autoencoders: Autoencoders, a type of neural network architecture, are employed to build a movie recommender system. The model is trained to remove noise, showcasing the capabilities of deep learning in restoration tasks.
 
 Each project is implemented using popular deep learning frameworks such as TensorFlow or PyTorch.
